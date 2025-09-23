@@ -30,7 +30,7 @@ Kroko ASR follows a **unique dual-model strategy**:
 
 ### 1. Community Models (free, open-source)
 
-- Licensed under **CC-BY**.
+- Licensed under **CC-BY-SA**.
 - Low-latency, lightweight models.
 - Perfect for hobby projects, research, or free tiers.
 - Faster and smaller than Whisper/Parakeet in many scenarios.
