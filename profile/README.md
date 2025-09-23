@@ -75,14 +75,3 @@ Kroko ASR is built on top of [**Sherpa-ONNX**](https://k2-fsa.github.io/sherpa/)
 ⚠️ **Note:** Kroko ASR is an independent project and is **not affiliated with Sherpa-ONNX**. We build on their excellent open-source engine, but our models, demos, and packaging are developed and maintained separately.
 
 ---
-
-## Citation
-
-```bibtex
-@software{kroko_asr,
-  title        = {Kroko ASR: Open-source and commercial speech recognition built for developers},
-  author       = {Kroko},
-  year         = {2025},
-  url          = {https://github.com/<org>/<repo>}
-}
-```
