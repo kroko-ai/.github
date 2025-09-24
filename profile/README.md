@@ -2,7 +2,7 @@
 
 ## **Open-source speech recognition built for developers.**
 >
-> Our engine is fully open-source, and you choose how to deploy models: use our **CC-BY licensed community models** or upgrade to **commercial models** with premium performance. We focus on building **fast, high-quality production models** and providing **examples that take the guesswork out** of integration.
+> Our engine is fully open-source, and you choose how to deploy models: use our **CC-BY-SA licensed community models** or upgrade to **commercial models** with premium performance. We focus on building **fast, high-quality production models** and providing **examples that take the guesswork out** of integration.
 
 ## Why Kroko ASR?
 
