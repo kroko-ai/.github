@@ -7,7 +7,7 @@
 ## Why Kroko ASR?
 
 - ⚡ **Fast & lightweight** – optimized Zipformer models (Whisper and parakeet style coming).
-- 🧩 **Flexible licensing** – use **fully open-source CC-BY community models** or integrate **commercial/OEM models** for premium accuracy.
+- 🧩 **Flexible licensing** – use **fully open-source CC-BY-SA community models** or integrate **commercial/OEM models** for premium accuracy.
 - 🌍 **Runs anywhere** – cross-platform and with support for many programming languages.
 - 📱 **Mobile & web ready** – works on Android, (iOS coming soon) in the browser via WASM, and with WebSockets for streaming.
 - 🧰 **Production focus** – we prioritize real-world performance, stability, and examples.
