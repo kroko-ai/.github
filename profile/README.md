@@ -19,6 +19,7 @@
 
 ### ▶️ Android App
 Run speech recognition **natively on your phone** using ONNX Runtime.
+- [Kroko ASR Model Explorer](https://play.google.com/store/apps/details?id=com.krokoasr.demo&hl=en)
 
 ### 🌐 Browser (WASM)
 Experience transcription **directly in your browser**, no server required.
