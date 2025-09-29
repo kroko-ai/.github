@@ -65,7 +65,7 @@ PRs welcome! Run `ruff`, `black`, and `pytest` before submitting.
 
 ## License
 
-Apache-2.0 engine. Models licensed separately (CC-BY community or commercial OEM).
+Apache-2.0 engine. Models licensed separately (CC-BY-SA community or commercial OEM).
 
 ---
 
